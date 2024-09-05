@@ -1,6 +1,6 @@
 
 <div align="center">
- <img width="180px" src="src/.vuepress/public/logo.png">
+ <img width="180px" src="./logo.png">
     <p/>
  <h1>『cs tips ： 面试知识点』</h1>
 </div>
