@@ -1,0 +1,1 @@
+import{_ as a,W as t,X as c,a0 as e,a1 as r}from"./framework-a6ba77fd.js";const s={},o=e("h1",{id:"消息队列知识点汇总",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#消息队列知识点汇总","aria-hidden":"true"},"#"),r(" 消息队列知识点汇总")],-1),n=[o];function _(d,i){return t(),c("div",null,n)}const l=a(s,[["render",_],["__file","mq.html.vue"]]);export{l as default};

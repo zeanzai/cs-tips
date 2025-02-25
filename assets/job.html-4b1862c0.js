@@ -1,0 +1,1 @@
+import{_ as e,W as o,X as t,a0 as _}from"./framework-a6ba77fd.js";const c={},s=_("p",null,"todo",-1),n=[s];function a(r,l){return o(),t("div",null,n)}const f=e(c,[["render",a],["__file","job.html.vue"]]);export{f as default};

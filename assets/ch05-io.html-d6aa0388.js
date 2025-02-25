@@ -1,0 +1,1 @@
+import{_ as a,W as t,X as o,a0 as e,a1 as c}from"./framework-a6ba77fd.js";const r={},s=e("h1",{id:"_5-io",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_5-io","aria-hidden":"true"},"#"),c(" 5. IO")],-1),_=[s];function n(i,d){return t(),o("div",null,_)}const l=a(r,[["render",n],["__file","ch05-io.html.vue"]]);export{l as default};

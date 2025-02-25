@@ -1,0 +1,1 @@
+import{_ as t,W as a,X as c,a0 as e,a1 as o}from"./framework-a6ba77fd.js";const n={},r=e("h1",{id:"_6-异常",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_6-异常","aria-hidden":"true"},"#"),o(" 6. 异常")],-1),s=[r];function _(d,i){return a(),c("div",null,s)}const l=t(n,[["render",_],["__file","ch06-exception.html.vue"]]);export{l as default};
